@@ -1,2 +1,2 @@
 network.host: 0.0.0.0
-index.analysis.analyzer.default.type: "ik"
+index.analysis.analyzer.default.type: "ik_max_word"
