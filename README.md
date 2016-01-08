@@ -10,5 +10,5 @@ docker pull grantchen/elasticsearch-ik
 # How to start
 
 ```bash
-docker run -d -p 9200:9200 -v "/home/grantchen/esdata":/usr/share/elasticsearch/data grantchen/elasticsearch-ik:1.0
+docker run -d -p 9200:9200 -v "/home/grantchen/esdata":/usr/share/elasticsearch/data grantchen/elasticsearch-ik
 ```
